@@ -1,0 +1,56 @@
+body{
+    background-color: bisque;
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+.logo{
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    height: 600px;
+    width: 400px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 600px;
+    background-color: white;
+}
+.google{
+    height: 40px;
+    border: 1px solid;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+    margin-left: 50px;
+    font-size: large;
+    font-weight: bold;
+}
+.logo{
+    align-content: center;
+}
+h3{
+    text-align: center;
+    
+}
+ .text{
+    height: 40px;
+    border: 1px solid;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+ }
+ p{
+    text-align: center;
+    
+ }
+ h2{
+    text-decoration: underline;
+    color: blueviolet;
+    text-align: center;
+ }
